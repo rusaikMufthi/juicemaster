@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/",   // 👈 ADD THIS LINE
+  base: "./",   // use relative base so assets resolve on GitHub Pages
   server: {
     host: "::",
     port: 8080,
