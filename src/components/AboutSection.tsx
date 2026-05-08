@@ -18,14 +18,9 @@ const AboutSection = () => {
 
         <div className="max-w-3xl mx-auto text-center mb-16">
           <p className="text-foreground/80 leading-relaxed text-lg">
-            Welcome to our fresh and vibrant fruit juice shop, where quality meets taste. 😋 
-            We serve a wide variety of freshly prepared fruit juices made from carefully selected 
-            fruits to give you the perfect refreshment any time of the day. Along with our 
-            signature juices, we offer delicious hot and cold coffee, plus freshly made fried 
-            snacks like samosas and rolls. Enjoy our fully air-conditioned, comfortable dining 
-            space with tables and chairs, perfect for relaxing with friends and family. With 
-            friendly staff and excellent service, we are committed to giving every customer a 
-            refreshing and satisfying experience.
+            Welcome to our fresh and vibrant juice shop, where quality meets taste. 😋 
+            Enjoy freshly prepared fruit juices, hot and cold coffee, and tasty snacks like samosas and rolls.
+            Relax in our fully air-conditioned dining space with friends and family while enjoying friendly service and a refreshing experience.
           </p>
         </div>
 

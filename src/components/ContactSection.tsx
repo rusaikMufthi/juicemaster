@@ -48,7 +48,7 @@ const ContactSection = () => {
             </div>
 
             <a
-              href="https://www.facebook.com/"
+              href="https://www.facebook.com/share/1JLp3DFjLA/"
               target="_blank"
               rel="noopener noreferrer"
               className="glass-card p-6 flex items-center gap-4 hover:bg-primary/5 transition-colors"
