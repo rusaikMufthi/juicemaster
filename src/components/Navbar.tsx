@@ -80,7 +80,7 @@ const Navbar = () => {
           </button>
 
           {/* Call Now — desktop only */}
-          <a href="tel:+94703443465" className="hidden md:inline-flex btn-primary-juice text-sm">
+          <a href="tel:+94711228796" className="hidden md:inline-flex btn-primary-juice text-sm">
             <Phone className="w-4 h-4" />
             Call Now
           </a>
@@ -111,7 +111,7 @@ const Navbar = () => {
               </li>
             ))}
             <li>
-              <a href="tel:+94703443465" className="btn-primary-juice text-sm">
+              <a href="tel:+94711228796" className="btn-primary-juice text-sm">
                 <Phone className="w-4 h-4" />
                 Call Now
               </a>
