@@ -81,7 +81,7 @@ import cheesewithchickenRolls from "@/assets/Cheese with Chicken Rolls.png";
 import vegRolls from "@/assets/Veg Rolls.png";
 import cheesevegRolls from "@/assets/Cheese Veg Rolls.png";
 import juicemasterchikenbunwithWattermelon from "@/assets/Juice Master Chiken Bun With Wattermelon.png";
-import breadSet from "@/assets/Bread Set.png";
+import breadSet from "@/assets/Fruit Salad.png";
 import fruitSalad from "@/assets/Fruit Salad.png";
 
 

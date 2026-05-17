@@ -1,11 +1,11 @@
 import { useState } from "react";
 import { X } from "lucide-react";
 
-import galleryInterior from "@/assets/gallery-interior.jpg";
-import galleryPrep from "@/assets/gallery-prep.jpg";
-import galleryJuices from "@/assets/gallery-juices.jpg";
-import galleryFruits from "@/assets/gallery-fruits.jpg";
-import galleryServing from "@/assets/gallery-serving.jpg";
+import galleryInterior from "@/assets/Fruit Salad.png";
+import galleryPrep from "@/assets/Mango Juice.png";
+import galleryJuices from "@/assets/Orange Juice.png";
+import galleryFruits from "@/assets/Pineapple Juice.png";
+import galleryServing from "@/assets/Watermelon Mint Juice.png";
 
 const images = [
   { src: galleryInterior, alt: "Our comfortable interior" },
