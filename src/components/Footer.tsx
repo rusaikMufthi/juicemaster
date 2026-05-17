@@ -1,4 +1,4 @@
-import logo from "@/assets/favicon.jpeg";
+import logo from "@/public/favicon.jpeg";
 
 const navLinks = [
   { label: "Home", href: "#home" },
