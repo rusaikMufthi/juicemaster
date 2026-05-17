@@ -30,8 +30,8 @@ const ContactSection = () => {
               </div>
               <div>
                 <h3 className="font-semibold mb-1 font-sans">Call Us</h3>
-                <a href="tel:+94703443465" className="text-primary font-medium hover:underline">
-                  +94 70 344 3465
+                <a href="tel:+94711228796" className="text-primary font-medium hover:underline">
+                  +94 71 122 8796
                 </a>
               </div>
             </div>

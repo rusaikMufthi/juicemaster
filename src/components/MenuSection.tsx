@@ -82,8 +82,6 @@ import vegRolls from "@/assets/Veg Rolls.png";
 import cheesevegRolls from "@/assets/Cheese Veg Rolls.png";
 import juicemasterchikenbunwithWattermelon from "@/assets/Juice Master Chiken Bun With Wattermelon.png";
 import breadSet from "@/assets/Bread Set.png";
-import egghalfBoild from "@/assets/Egg Half Boild.png";
-import smallcupofTea from "@/assets/Small Cup Of Tea.png";
 import fruitSalad from "@/assets/Fruit Salad.png";
 
 
@@ -179,9 +177,7 @@ const menuItems: MenuItem[] = [
   { name: "Veg Rolls", price: "LKR 100", image: vegRolls, category: "Savory Items" },
   { name: "Cheese Veg Rolls", price: "LKR 180", image: cheesevegRolls, category: "Savory Items" },
   { name: "Juice Master Chicken Bun With Watermelon", price: "LKR 770", image: juicemasterchikenbunwithWattermelon, category: "Savory Items" },
-  { name: "Bread Set", price: "LKR 250", image: breadSet, category: "Breakfast" },
-  { name: "Egg Half Boild", price: "LKR 150", image: egghalfBoild, category: "Breakfast" },
-  { name: "Small Cup Of Tea", price: "LKR 100", image: smallcupofTea, category: "Breakfast" },
+  { name: "Bread Set", price: "LKR 699", image: breadSet, category: "Breakfast" },
   { name: "Fruit Salad", price: "LKR 350", image: fruitSalad, category: "Salad" },
 
 
